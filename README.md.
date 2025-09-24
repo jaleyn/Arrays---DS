@@ -1,0 +1,2 @@
+# Arrays---DS This program takes a list of integers as input, reverses the order using the reverseArray function, and returns the reversed list. The Main method reads the input, processes it, and prints the reversed numbers separated by spaces.
+
